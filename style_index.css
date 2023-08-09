@@ -1,5 +1,5 @@
 body{
-    background-image: url(Images/main_back.avif);
+    background-image: url(main_back.avif);
 }
 
 #name h2{
@@ -15,4 +15,9 @@ ul{
 
 img{
     border: 2px solid black;
+}
+
+p1{
+    background-image: url(mob_back.jpeg);
+    background-size: 50%;
 }
